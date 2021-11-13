@@ -9,6 +9,7 @@ import kotlinx.coroutines.ExperimentalCoroutinesApi
 
 open class MyApplication : Application() {
 
+    //test branch
     private val coreComponent: CoreComponent by lazy {
         DaggerCoreComponent.factory().create(applicationContext)
     }
