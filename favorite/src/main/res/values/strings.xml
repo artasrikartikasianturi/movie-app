@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="deleted_favorite">Successfully deleted %1$s</string>
+    <string name="undo">Undo</string>
+</resources>
